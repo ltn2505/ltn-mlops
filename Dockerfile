@@ -17,6 +17,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Sao chép toàn bộ mã nguồn vào container
 COPY . .
 
+# Model đã được export sẵn trong thư mục models/ và sẽ được copy vào image
+# Không train model khi build - model đã được train và export trước đó
+
 # Expose cổng Flask
 EXPOSE 5000
 
