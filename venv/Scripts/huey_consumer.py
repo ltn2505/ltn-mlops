@@ -1,4 +1,4 @@
-#!C:\Users\ADMIN\OneDrive\Desktop\MLOps\venv\Scripts\python.exe
+#!D:\MSE\DevOps\MLOps\venv\Scripts\python.exe
 
 import logging
 import os

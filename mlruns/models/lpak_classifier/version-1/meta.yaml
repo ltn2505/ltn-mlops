@@ -4,7 +4,7 @@ deployment_job_state: null
 description: null
 last_updated_timestamp: 1762586147610
 model_id: m-5c70dc42de7f4e63ad68f8ad473ae8f4
-name: lpak_classifier
+name: ltn_classifier
 run_id: 545cfe034e9f4902944e82b745e5e7a7
 run_link: null
 source: models:/m-5c70dc42de7f4e63ad68f8ad473ae8f4

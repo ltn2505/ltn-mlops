@@ -3,7 +3,7 @@ import mlflow.pyfunc
 import numpy as np
 
 # Tên model trong MLflow Registry
-MODEL_URI = "models:/lpak_classifier/1"   # hoặc "models:/lpak_classifier/Production" nếu bạn đặt stage
+MODEL_URI = "models:/ltn_classifier/1"   # hoặc "models:/ltn_classifier/Production" nếu bạn đặt stage
 
 app = Flask(__name__)
 

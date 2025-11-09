@@ -4,7 +4,7 @@ experiment_id: '602464189259425114'
 last_updated_timestamp: 1762586147493
 model_id: m-5c70dc42de7f4e63ad68f8ad473ae8f4
 model_type: null
-name: lpak_model
+name: ltn_model
 source_run_id: 545cfe034e9f4902944e82b745e5e7a7
 status: 2
 status_message: null
